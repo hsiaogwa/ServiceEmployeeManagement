@@ -2,6 +2,11 @@
 SQL for employee management using as Service Industial especially physical stores. Using a barbershop as an example in actual design.
 
 
+## License Information
+
+**see in file LICENSE (CC BY-NC-SA 4.0).**
+full insormation https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
 ## Author Information
 
 **Primary Author (Legal Identifier):**
